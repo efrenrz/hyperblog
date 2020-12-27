@@ -1,4 +1,5 @@
 body{
+    background-color: #1e1f24;
     color: #333;
     text-align: center;
     font-family: "Arial";
@@ -7,10 +8,16 @@ body{
 }
 
 #container{
+    background-color: #fff;
     width: 70%;
     border: 1px solid #b4b4b4;
     margin: 0 auto;
     text-align: left;
+}
+
+#cabecera img{
+    width: 50px;
+    vertical-align: middle;
 }
 
 #cabecera{
