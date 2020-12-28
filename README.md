@@ -9,5 +9,6 @@ Algunos temas importantes
 *Buenas prácticas de trabajo 
 *Entre muchos mas
 *Arvhio creado por EFRENRZ
+*incluye elemplos es linux, windows y mac
 
 Este es un ejemplo de **Readme.md**. puedes revisar el repositorio en [**GitHub**](https://github.com/efrenrz/hyperblog)
