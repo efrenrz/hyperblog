@@ -10,5 +10,6 @@ Algunos temas importantes
 *Entre muchos mas
 *Arvhio creado por EFRENRZ
 *incluye elemplos es linux, windows y mac
+*disponible para todas la edades
 
-Este es un ejemplo de **Readme.md**. puedes revisar el repositorio en [**GitHub**](https://github.com/efrenrz/hyperblog)
+Este es un ejemplo de **Readme.md**. puedes revisar el repositorio en [**GitHub**](https://github.com/efrenrz/hyperblog)s
